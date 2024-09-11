@@ -1,0 +1,10 @@
+server:
+  port: 9191
+spring:
+  h2:
+    console:
+      enabled: true
+  application:
+    name: payment-service
+logging:
+  file: C:/Users/GOKUL_PC/Desktop/applogs/paymentService.log
